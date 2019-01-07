@@ -1,5 +1,5 @@
 # Actividad_8
-### 8º Actividad semanal. Bueno seguimos integrado con passport, y a la vez utilizamos la internacionalización para que neustra tienda tiene más alcance.
+### 8º Actividad semanal. Bueno seguimos integrado con passport, y a la vez utilizamos la internacionalización para que nuestra tienda tiene más alcance.
 Bueno ahora tenemos cada vez más visitas pero estamos perdiendo visitas a la misma desde los paises con habla inglesa, por ello es interesante crear nuestro web con internacionalización, y a la vez el login desde al menos una red social(facebook, twitter, gmail), etc.
 
 ---
